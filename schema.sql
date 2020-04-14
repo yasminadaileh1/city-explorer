@@ -7,3 +7,4 @@ CREATE TABLE location (
   longitude VARCHAR(255)
 );
 
+
