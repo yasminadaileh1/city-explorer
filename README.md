@@ -24,3 +24,5 @@ we use for building this app many library :
 ## Credits and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
 -->
+
+about the yelp URL sahar helped me with the .sit because I didn't git the idea by my self :) !
